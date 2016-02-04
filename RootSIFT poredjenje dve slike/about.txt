@@ -1,0 +1,5 @@
+RootSIFT algoritam je baziran na SIFT algoritmu, donekle unapredjena verzija.
+Radi tako sto odredjuje kljucne tacke na dve slike koje i na osnovu poklapanja
+kljucnih tacaka daje rezultat. U ovom primeru sam rucno unosio slike i poredio
+ih. Rezultati su prilicno losi, ne vidim mogucnost da unapredim ovo dalje,
+tako da smisljam neki drugi nacin da resim problem.
